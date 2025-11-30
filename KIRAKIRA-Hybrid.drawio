@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hhZ2w9ZUt1KUDkxSKfJN-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="380" width="620" x="140" y="240" as="geometry" />
+          <mxGeometry height="380" width="560" x="140" y="180" as="geometry" />
         </mxCell>
         <mxCell id="hhZ2w9ZUt1KUDkxSKfJN-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="雨云" vertex="1">
-          <mxGeometry height="30" width="90" x="190" y="260" as="geometry" />
+          <mxGeometry height="30" width="90" x="170" y="200" as="geometry" />
         </mxCell>
         <mxCell id="hhZ2w9ZUt1KUDkxSKfJN-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4c8g Work Node&lt;br&gt;HK&lt;br&gt;133￥" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="350" as="geometry" />
@@ -19,23 +19,20 @@
         <mxCell id="hhZ2w9ZUt1KUDkxSKfJN-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4c8g Work Node&lt;br&gt;HK&lt;br&gt;133￥" vertex="1">
           <mxGeometry height="60" width="120" x="510" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="hhZ2w9ZUt1KUDkxSKfJN-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4c4g Work Node&lt;br&gt;US&lt;br&gt;60￥" vertex="1">
-          <mxGeometry height="60" width="120" x="190" y="440" as="geometry" />
-        </mxCell>
         <mxCell id="hhZ2w9ZUt1KUDkxSKfJN-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="200" width="310" x="860" y="240" as="geometry" />
+          <mxGeometry height="200" width="310" x="790" y="180" as="geometry" />
         </mxCell>
         <mxCell id="hhZ2w9ZUt1KUDkxSKfJN-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Vultr" vertex="1">
-          <mxGeometry height="30" width="90" x="910" y="270" as="geometry" />
+          <mxGeometry height="30" width="90" x="810" y="210" as="geometry" />
         </mxCell>
         <mxCell id="hhZ2w9ZUt1KUDkxSKfJN-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2c4g Work Node&lt;br&gt;SGP&lt;br&gt;290￥" vertex="1">
-          <mxGeometry height="60" width="120" x="910" y="340" as="geometry" />
+          <mxGeometry height="60" width="120" x="840" y="270" as="geometry" />
         </mxCell>
         <mxCell id="hhZ2w9ZUt1KUDkxSKfJN-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4c4g Work Node&lt;br&gt;JP&lt;br&gt;77￥" vertex="1">
-          <mxGeometry height="60" width="120" x="190" y="525" as="geometry" />
+          <mxGeometry height="60" width="120" x="190" y="450" as="geometry" />
         </mxCell>
         <mxCell id="hhZ2w9ZUt1KUDkxSKfJN-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="210" width="1030" x="140" y="670" as="geometry" />
+          <mxGeometry height="210" width="960" x="140" y="670" as="geometry" />
         </mxCell>
         <mxCell id="hhZ2w9ZUt1KUDkxSKfJN-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cloudflare" vertex="1">
           <mxGeometry height="30" width="90" x="170" y="700" as="geometry" />
@@ -48,6 +45,15 @@
         </mxCell>
         <mxCell id="hhZ2w9ZUt1KUDkxSKfJN-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Domain / DNS" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="SgUBZsINZ7ZLmy3JHX86-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2c4g Master Node&lt;br&gt;HK&lt;br&gt;53￥" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="SgUBZsINZ7ZLmy3JHX86-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2c4g Master Node&lt;br&gt;HK&lt;br&gt;53￥" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="SgUBZsINZ7ZLmy3JHX86-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2c4g Master Node&lt;br&gt;HK&lt;br&gt;53￥" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
